@@ -1,5 +1,5 @@
-# TIL
-Today I Learned
+# Study
+공부한 것들
 
 ## Books
 1. [Clean Code (22.01.21 ~ )](https://github.com/Jeje01/TIL/tree/main/Books/Clean%20Code)
